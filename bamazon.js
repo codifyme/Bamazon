@@ -48,7 +48,7 @@ const promptCustomerForQuantity = product => {
       {
         type: 'input',
         name: 'quantity',
-        message: 'How many animals do you want[Quit with Q]',
+        message: 'How many items do you want[Quit with Q]',
         validate: function(val) {
           return val > 0 || val.toLowerCase() === 'q';
         }
