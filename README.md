@@ -1,6 +1,6 @@
 
 ## OVERVIEW
-> **Bamazon** is a CLI store-front with MYSQL Back-END for an e-commerce app. The app will take in orders from customers and deplete stock from the store’s inventory that track every product sales across the store’s departments to provide a summary of the highest-grossing departments in the store.
+> **Bamazon** is a CLI store-front with MYSQL BACK-END for an E-Commerce app(This shopping application enables users to select and purchase items from the inventory stored in a local database). The app will take in orders from customers and deplete stock from the store’s inventory that track every product sales across the store’s departments to provide a summary of the highest-grossing departments in the store.
 
 ## Third-Party Node Modules
 
