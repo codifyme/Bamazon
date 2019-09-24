@@ -32,7 +32,7 @@
 ## Technologies used
 
 >- Node.js
->- Inquire NPM package(https://www.npmjs.com/package/inquirer)
+>- Inquirer NPM package(https://www.npmjs.com/package/inquirer)
 >- MYSQL NPM Package (https://www.npmjs.com/package/mysql)
 
 * This is a node.js driver for mysql. It is written in JavaScript, does not require compiling, and is 100% MIT licensed.
