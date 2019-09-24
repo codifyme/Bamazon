@@ -10,7 +10,8 @@
 > The node modules I use in this app are: 
 > console.table, mysql,inquirer.
 > Install dependencies packages.
-> ** Packages Setup**
+
+> **Packages Setup**
 >>npm init => initialize package.json
 >>npm install => create package-lock.json
 >>npm i mysql => install mysql package
