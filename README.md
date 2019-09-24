@@ -9,9 +9,15 @@
 >
 > The node modules I use in this app are: 
 > console.table, mysql,inquirer.
-> Install dependencies packages like package.json, just run:
+> Install dependencies packages.
+> ** Packages Setup**
+>>npm init => initialize package.json
+>>npm install => create package-lock.json
+>>npm i mysql => install mysql package
+>>npm i inquirer => install inquirer package
+>>npm i dotenv => install dotenv package
 
->> npm install
+
 
 ## What each Javascript does
 
