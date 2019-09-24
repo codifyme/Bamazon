@@ -6,17 +6,14 @@
 
 
 > **Bamazon** uses a third-party node.js modules, it has it's own module, and connects to MYSQL database to store and retrieve > product and department information.
->
-> The node modules I use in this app are: 
-> console.table, mysql,inquirer.
-> Install dependencies packages.
 
-> **Packages Setup**
->>npm init => initialize package.json
->>npm install => create package-lock.json
->>npm i mysql => install mysql package
->>npm i inquirer => install inquirer package
->>npm i dotenv => install dotenv package
+
+## Packages Setup
+1. npm init => initialize package.json
+2. npm install => create package-lock.json
+3. npm i mysql => install **[mysql package](https://www.npmjs.com/package/mysql)**
+4. npm i inquirer => install **[inquirer package](https://www.npmjs.com/package/inquirer)**
+5. npm i dotenv => install **[dotenv package](https://www.npmjs.com/package/dotenv)**
 
 
 
